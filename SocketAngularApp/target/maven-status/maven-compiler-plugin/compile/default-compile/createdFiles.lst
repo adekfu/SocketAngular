@@ -1,0 +1,4 @@
+pl\nightsky\SocketAngular\config\WebSecurityConfig.class
+pl\nightsky\SocketAngular\ServletInitializer.class
+pl\nightsky\SocketAngular\controllers\HelloRestController.class
+pl\nightsky\SocketAngular\SocketAngularApplication.class
